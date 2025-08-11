@@ -1,6 +1,14 @@
 # AutoML (Streamlit + PyCaret)
 
-Personal project to quickly explore a dataset, apply simple transformations, and train machine learning models end‑to‑end via a clean Streamlit UI. The app compares models and surfaces the best one by accuracy (classification) or default metric (regression), and lets you download the trained model.
+Personal project to quickly explore a dataset, apply simple transformations, and train machine learning models end‑to‑end via a clean Streamlit UI.
+
+## What it is
+
+An automated ML model builder. It leverages PyCaret under the hood to compare a suite of algorithms and train the best model for your dataset with minimal code. You can upload a CSV, profile it, make quick edits, and one‑click “Compare and train best” to get a trained model you can download.
+
+## Why I made it
+
+I used to get many ML assignments and was too lazy to rewrite the same scikit‑learn boilerplate again and again. I was kind of bored of it, so I built this to train models without doing much — and, yes, to snag easy A+ grades.
 
 ## Features
 
