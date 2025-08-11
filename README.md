@@ -10,6 +10,10 @@ An automated ML model builder. It leverages PyCaret under the hood to compare a 
 
 I used to get many ML assignments and was too lazy to rewrite the same scikit‑learn boilerplate again and again. I was kind of bored of it, so I built this to train models without doing much — and, yes, to snag easy A+ grades.
 
+- You can skip a lot of boring preprocessing: pandas profiling (ydata‑profiling) gives you an instant report.
+- Visualize the data, drop columns on the 2nd page, and run additional operations on the dataframe via a simple code box.
+- PyCaret has a lot more functionality I haven’t combined yet — but the app is easy to extend if you want to plug in more steps/models.
+
 ## Features
 
 - Upload CSV data from the UI (Tab 1)
