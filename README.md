@@ -38,6 +38,14 @@ Below are some screenshots from the app:
 
 ![Models page](automl/models.png)
 
+The image above shows the list of models you can select from on the Modeling tab.
+
+Additional screenshots:
+
+![Screenshot](Screenshot 2025-08-13 150940.png)
+![Screenshot](Screenshot 2025-08-13 151312.png)
+![Screenshot](Screenshot 2025-08-13 151401.png)
+
 ## Current status / limitations
 
 - On the Modeling page (Tab 4), only one of Regression or Classification is currently fully working; the other is planned for the next iteration.
