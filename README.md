@@ -42,9 +42,9 @@ The image above shows the list of models you can select from on the Modeling tab
 
 Additional screenshots:
 
-![Screenshot](Screenshot 2025-08-13 150940.png)
-![Screenshot](Screenshot 2025-08-13 151312.png)
-![Screenshot](Screenshot 2025-08-13 151401.png)
+![Screenshot](<Screenshot 2025-08-13 150940.png>)
+![Screenshot](<Screenshot 2025-08-13 151312.png>)
+![Screenshot](<Screenshot 2025-08-13 151401.png>)
 
 ## Current status / limitations
 
