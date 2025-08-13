@@ -32,6 +32,12 @@ I used to get many ML assignments and was too lazy to rewrite the same scikit‑
 
 Note: Tab 3 is currently a placeholder.
 
+## Screenshots
+
+Below are some screenshots from the app:
+
+![Models page](automl/models.png)
+
 ## Current status / limitations
 
 - On the Modeling page (Tab 4), only one of Regression or Classification is currently fully working; the other is planned for the next iteration.
