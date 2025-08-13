@@ -105,7 +105,6 @@ Then:
 
 - Finish the remaining Modeling workflow (Regression/Classification) on Tab 4
 - Add richer data cleaning helpers to Tab 2 (encode, impute, scale)
-- Add evaluation dashboards and confusion matrix/ROC for classification
 - Persist projects/configs
 
 
